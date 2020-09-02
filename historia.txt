@@ -2,4 +2,6 @@ Estoy realizando el curso de git profesional en platzi
 
 de momento todo bien
 
-generare el primer commit
+Aprendi a usar git resets
+
+generare el segundo commit
