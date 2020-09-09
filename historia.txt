@@ -1,7 +1,7 @@
-Estoy realizando el curso de git profesional en platzi
+Esta es la historia de Freddy Vega
 
-de momento todo bien
+Freddy Vega tiene 32 años y nació en Colombia
 
-Aprendi a usar git resets
+Anita Platzi tiene 41 años y nació en Internet
 
-generare el segundo commit
+Mañana nos enfocaremos en su vida laboral
